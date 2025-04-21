@@ -10,5 +10,5 @@ export const personalData = {
   github: "https://github.com/abrar0333",
   linkedIn: "https://www.linkedin.com/in/abrar-ul-haq-16b39817a/",
   resume:
-    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
+    "https://drive.google.com/file/d/1MtWr4fyyYiPB6tShis_adDN4sHf7oMW8/view?usp=sharing",
 };
