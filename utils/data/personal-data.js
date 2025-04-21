@@ -1,17 +1,14 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
-}
+  name: "ABRAR UL HAQ",
+  profile: "/profile.png",
+  designation: "Mobile App Developer",
+  description:
+    "I am an experienced Frontend Developer with a strong foundation in creating seamless and intuitive user interfaces. My core expertise lies in Flutter for mobile app development, complemented by proficiency in React for web development and React Native for cross-platform applications. Passionate about building scalable, high-performance applications, I bring a deep understanding of modern development practices and design principles. I thrive in solving complex challenges and delivering innovative solutions that enhance user experiences while driving project success.",
+  email: "abrarulhaq139@gmail.com",
+  phone: "+91 6380454386",
+  address: "J.P. Nagar, Bengaluru, India - 560078",
+  github: "https://github.com/abrar0333",
+  linkedIn: "https://www.linkedin.com/in/abrar-ul-haq-16b39817a/",
+  resume:
+    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
+};
